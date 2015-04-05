@@ -1,5 +1,6 @@
-FROM debian:wheezy
-MAINTAINER Tim Haak <tim@haak.co.uk>
+#Forked from <timhaak/docker-sickrage>
+FROM resin/rpi-raspbian:wheezy
+MAINTAINER Dieter Rosch <dieter.rosch@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV SICKRAGE_VERSION master
