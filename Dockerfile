@@ -28,3 +28,5 @@ RUN chmod u+x  /start.sh
 EXPOSE 8081
 
 CMD ["/start.sh"]
+
+
