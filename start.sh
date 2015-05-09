@@ -46,3 +46,4 @@ ln -sf /config/sickbeard.db* /sickrage/
 #ln -sf /config/autoProcessTV.cfg sickbeard/autoprocesstv/autoProcessTV.cfg
 
 /usr/bin/python SickBeard.py
+
